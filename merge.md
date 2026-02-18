@@ -1,10 +1,10 @@
-# Basic Pull Request (pr1)
+# Basic Pull Request (pr1) | Adding a new file
 
 > using GitHub for a PR/merge workflow; easy, no conflicts
 
 ## steps, all on GitHub (no clone or local) 
-- on this branch `pr1`
-- create a new file `pr1.md` & add some text... `writing new code for this app & reuesting to be pulled into main, by your name`
+- on branch `pr1`
+- create a new file `merge.md` & add some text... `writing new code for this app & reuesting to be pulled into main, by your name`
 - then: `Commit`
 - toggle back to the main branch, still on GitHub 
 - using the notification or via `Pull Requests` menu
