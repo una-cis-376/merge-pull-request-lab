@@ -1,1 +1,2 @@
-- adding all my code to this project, your name
+- adding all my code to this project, Thuan Nguyen
+- adding all my code to this project
